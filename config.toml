@@ -1,0 +1,21 @@
+baseURL = 'http://werewolf.gay/'
+languageCode = 'en'
+title = "Taz's Lair"
+theme = 'lynx'
+copyright = ' '
+
+[params]
+  attribution = false
+
+[author]
+  name = "Taz'rir"
+  headline = 'all of my stomping grounds 🐾'
+  image = 'images/profile.png'
+
+  links = [
+    { twitter = "https://twitter.com/tazhowls" },
+    { telegram = "https://t.me/tazrir"},
+    { mastodon = "https://meow.social/@tazrir" },
+    { furaffinity = { href = "https://furaffinity.net/user/tazrir", text = "FurAffinity" } },
+    { cohost = { href = "https://cohost.org/tazrir/", text = "cohost!" }}
+  ]

@@ -13,7 +13,7 @@ copyright = ' '
   image = 'images/profile.png'
 
   links = [
-    { twitter = "https://twitter.com/tazhowls" },
+    { twitter = "https://twitter.com/tazrir" },
     { telegram = "https://t.me/tazrir"},
     { mastodon = "https://meow.social/@tazrir" },
     { furaffinity = { href = "https://furaffinity.net/user/tazrir", text = "FurAffinity" } },

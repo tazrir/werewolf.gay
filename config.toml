@@ -14,7 +14,7 @@ copyright = ' '
 
   links = [
     { telegram = "https://t.me/tazrir"},
-    { bluesky = { href = "https://bsky.app/profile/tazrir.bsky.social", text = "Bluesky" } },
+    { bluesky = { href = "https://bsky.app/profile/werewolf.gay", text = "Bluesky" } },
     { mastodon = "https://meow.social/@tazrir" },
     { furaffinity = { href = "https://furaffinity.net/user/tazrir", text = "FurAffinity" } }
   ]
